@@ -12,5 +12,5 @@
 	"p1_content": "\n          Edit here. Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        ",
 	"p3_image": "https://picsum.photos/400",
 	"p3_headline": "Servicios",
-	"p3_content": "\n          Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        "
+	"p3_content": "<ul>\n<li>Use the link <strong><a href=\"?login\">?login</a></strong> to see the edit toolbar.</li>\n</ul>"
 }
