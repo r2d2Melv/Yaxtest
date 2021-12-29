@@ -9,5 +9,8 @@
 	],
 	"p1_image": "https://picsum.photos/400",
 	"p1_headline": "My Yax test\n\n\n\nEs una prueba ",
-	"p1_content": "\n          Edit here. Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        "
+	"p1_content": "\n          Edit here. Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        ",
+	"p3_image": "https://picsum.photos/400",
+	"p3_headline": "Servicios",
+	"p3_content": "\n          Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        "
 }
